@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2024-11-27 114015](https://github.com/user-attachments/assets/dab87cc8-9176-4a98-a3fe-395bac350f80)
+
+### Name: DHINESHKUMAR.L
+
+### Register Number: 24900785
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
