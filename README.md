@@ -47,9 +47,10 @@
 
 ## Output:
 
-![Screenshot 2024-11-27 114015](https://github.com/user-attachments/assets/dab87cc8-9176-4a98-a3fe-395bac350f80)
+![Screenshot 2024-11-28 145103](https://github.com/user-attachments/assets/e5208c21-8a48-4ff8-8bbf-a19c0a45f734)
 
-### Name: DHINESHKUMAR.L
+
+### Name: DHINESH KUMAR.L
 
 ### Register Number: 24900785
 
